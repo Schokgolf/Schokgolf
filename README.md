@@ -31,13 +31,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
 
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/MONTEREY-FCC624?style=for-the-badge&logo=macOS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /
-</p>
+
   
   <p align = 'center'>
-  <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohamsalkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=schokgolf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </p>
